@@ -27,7 +27,7 @@ Using unpkg CDN:
 
 ## This is what it looks like
 
-<img src="../axios%20practice/img/site-image.png">
+<img src="https://github.com/batistaDev1113/dogs-api-axios/blob/master/img/site-image.png">
 
 `If you want to try it, here is the` [link to the app](https://optimistic-euler-cd0cb0.netlify.app/)
 
