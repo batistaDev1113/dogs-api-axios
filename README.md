@@ -16,7 +16,7 @@ Using yarn:
 \$ yarn add axios
 Using jsDelivr CDN:
 
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"\></script\>
 
 Using unpkg CDN:
 
